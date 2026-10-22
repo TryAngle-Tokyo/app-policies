@@ -16,8 +16,9 @@
 | アプリ | 掲載用HTML | 公開予定URL |
 | --- | --- | --- |
 | BubbleZero | [bubblezero/index.html](./bubblezero/index.html) | [プライバシーポリシー](https://tryangle-tokyo.github.io/app-policies/bubblezero/) |
+| カードのおかたづけ（CardSorting） | [cardsorting/index.html](./cardsorting/index.html) | [プライバシーポリシー](https://tryangle-tokyo.github.io/app-policies/cardsorting/) |
 
-BubbleZeroはローカルに追加済みです。公開元への反映と公開URLの閲覧確認は未実施です。
+BubbleZeroは公開元へpush済みです。CardSortingも公開元への反映後、公開URLの閲覧を確認します。
 
 この一覧は公開ページの案内です。各アプリのストア審査・配布状況を示すものではありません。
 
@@ -31,7 +32,9 @@ app-policies/
 │   └── index.html
 ├── pitattokatakana/
 │   └── index.html
-└── bubblezero/
+├── bubblezero/
+│   └── index.html
+└── cardsorting/
     └── index.html
 ```
 
