@@ -11,6 +11,14 @@
 | ピタッと！ひらがな | [pitattohiragana/index.html](./pitattohiragana/index.html) | [プライバシーポリシー](https://tryangle-tokyo.github.io/app-policies/pitattohiragana/) |
 | ピタッと！カタカナ | [pitattokatakana/index.html](./pitattokatakana/index.html) | [プライバシーポリシー](https://tryangle-tokyo.github.io/app-policies/pitattokatakana/) |
 
+## 追加準備中のページ
+
+| アプリ | 掲載用HTML | 公開予定URL |
+| --- | --- | --- |
+| BubbleZero | [bubblezero/index.html](./bubblezero/index.html) | [プライバシーポリシー](https://tryangle-tokyo.github.io/app-policies/bubblezero/) |
+
+BubbleZeroはローカルに追加済みです。公開元への反映と公開URLの閲覧確認は未実施です。
+
 この一覧は公開ページの案内です。各アプリのストア審査・配布状況を示すものではありません。
 
 ## ファイル構成と公開方法
@@ -21,7 +29,9 @@ app-policies/
 ├── README.md
 ├── pitattohiragana/
 │   └── index.html
-└── pitattokatakana/
+├── pitattokatakana/
+│   └── index.html
+└── bubblezero/
     └── index.html
 ```
 
