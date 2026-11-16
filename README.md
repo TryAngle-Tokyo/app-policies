@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | ピタッと！ひらがな | [pitattohiragana/index.html](./pitattohiragana/index.html) | [プライバシーポリシー](https://tryangle-tokyo.github.io/app-policies/pitattohiragana/) |
 | ピタッと！カタカナ | [pitattokatakana/index.html](./pitattokatakana/index.html) | [プライバシーポリシー](https://tryangle-tokyo.github.io/app-policies/pitattokatakana/) |
+| ピタッと！ローマ字 | [pitattoromaji/index.html](./pitattoromaji/index.html) | [プライバシーポリシー](https://tryangle-tokyo.github.io/app-policies/pitattoromaji/) |
 
 ## 追加準備中のページ
 
@@ -31,6 +32,8 @@ app-policies/
 ├── pitattohiragana/
 │   └── index.html
 ├── pitattokatakana/
+│   └── index.html
+├── pitattoromaji/
 │   └── index.html
 ├── bubblezero/
 │   └── index.html
