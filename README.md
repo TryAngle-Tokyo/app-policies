@@ -11,6 +11,7 @@
 | ピタッと！ひらがな | [pitattohiragana/index.html](./pitattohiragana/index.html) | [プライバシーポリシー](https://tryangle-tokyo.github.io/app-policies/pitattohiragana/) |
 | ピタッと！カタカナ | [pitattokatakana/index.html](./pitattokatakana/index.html) | [プライバシーポリシー](https://tryangle-tokyo.github.io/app-policies/pitattokatakana/) |
 | ピタッと！ローマ字 | [pitattoromaji/index.html](./pitattoromaji/index.html) | [プライバシーポリシー](https://tryangle-tokyo.github.io/app-policies/pitattoromaji/) |
+| ピタッと！英単語 | [pitattoenglishwords/index.html](./pitattoenglishwords/index.html) | [プライバシーポリシー](https://tryangle-tokyo.github.io/app-policies/pitattoenglishwords/) |
 
 ## 追加準備中のページ
 
@@ -34,6 +35,8 @@ app-policies/
 ├── pitattokatakana/
 │   └── index.html
 ├── pitattoromaji/
+│   └── index.html
+├── pitattoenglishwords/
 │   └── index.html
 ├── bubblezero/
 │   └── index.html
